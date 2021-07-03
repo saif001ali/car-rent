@@ -1,0 +1,12 @@
+.car {
+    background-color: aqua;
+    margin: 0 5px 5px 0;
+    border-style: solid;
+    
+}
+
+
+.wrapper {
+    display: flex;
+}
+
